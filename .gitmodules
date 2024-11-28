@@ -1,0 +1,3 @@
+[submodule "obelix"]
+	path = obelix
+	url = https://github.com/EPiCs-group/obelix
